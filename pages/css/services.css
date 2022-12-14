@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(234, 232, 236);
+ }
+ 
+ 
+ .services{background-color: rgb(168, 97, 229);
+     border-radius: 20px;
+ 
+ }
+ 
+ h2{
+     font-size: 150px;
+     font-family: 'Times New Roman', Times, serif;
+     color: rgb(253, 253, 253);
+     display: flex;
+     justify-content: center;
+ }
+ nav{
+     background-color: rgb(251, 251, 251);
+     display: flex;
+     height: 70px;
+     font-size: 50px;
+     font-family: 'Times New Roman', Times, serif;
+     margin: 20px;
+     border-radius: 20px;
+ }
+ a{
+     margin: 20px;
+     text-decoration: none;
+ }
+ 
+ 

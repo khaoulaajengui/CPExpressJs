@@ -1,0 +1,29 @@
+body{
+   background-color: rgb(234, 232, 236);
+}
+
+
+.home{background-color: rgb(168, 97, 229);
+    border-radius: 20px;
+
+}
+
+h2{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(253, 253, 253);
+}
+nav{
+    background-color: rgb(251, 251, 251);
+    display: flex;
+    height: 70px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    border-radius: 20px;
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+}
+
